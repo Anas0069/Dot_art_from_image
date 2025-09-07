@@ -105,15 +105,6 @@ Intensity Variance (15%): Local intensity variations
 Texture (10%): Local Binary Pattern analysis
 Morphology (5%): Morphological gradient
 
-📁 Project Structure
-dot_art_generator/
-├── dot_art_generator.py     # Main generator code
-├── README.md               # This file
-├── requirements.txt        # Dependencies
-├── examples/              # Sample inputs and outputs
-│   ├── input_images/      # Sample input images
-│   └── output_images/     # Generated dot art
-└── docs/                  # Additional documentation
 🔍 How It Works
 
 Image Preprocessing: Loads and resizes image while maintaining aspect ratio
