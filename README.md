@@ -84,8 +84,6 @@ Background: Off-white
 Dots: Dark gray
 Best for: Hand-drawn, artistic feel
 
-⚙️ Quality Settings
-QualityResolutionDot DensityProcessing TimeBest ForFast800x600Low~5-10 secondsQuick previewsBalanced1000x750Medium~15-30 secondsGeneral useHigh1400x1000High~30-60 secondsFinal artwork
 🔧 Advanced Configuration
 Custom Parameters
 pythongenerator = AccurateDotArtGenerator(
